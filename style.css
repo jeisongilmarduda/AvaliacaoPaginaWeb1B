@@ -1,0 +1,38 @@
+body{
+    background-color: #B8FFFF
+  } 
+  .textoprincipal{
+    background-color: #86F1C4
+  }
+  #imagemprincipal1{
+    width: 45%;
+      border : 10px solid rgb(21,156,138);
+  }
+  h1{
+    text-align: center ;
+    color: rgb(176,87,202) ;
+      font-size: 50px;
+    }
+  p{
+    font-size:24px issao {
+    text-align: center ;
+  }
+    
+  i {
+    color: red
+  }
+    
+    h2{
+      text-align: center ;
+    }
+    
+    ul {
+      display: inline-block;
+      margin-right : 15;
+     imical-aling : top;
+      
+    }
+    #imagemprincipal2{ 
+    width : 45%;
+      border:10px solid rgb(51,235,31);
+    }
